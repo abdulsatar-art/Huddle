@@ -438,6 +438,7 @@ footer {
     .top-m2 {
         display: block;
         margin-top: -138px;
+        width: 100%;
     }
 
     footer {
