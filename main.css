@@ -389,6 +389,7 @@ footer {
 
     .top-m {
         display: block;
+        width: 100%;
     }
 
     .p2 p {
@@ -411,6 +412,7 @@ footer {
 
     .bottom-m {
         display: block;
+        width: 100%;
     }
 
     #white {
