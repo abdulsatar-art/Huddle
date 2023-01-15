@@ -313,7 +313,7 @@ footer {
 
 /* Mobile */
 
-@media all and (max-width: 376px) {
+@media all and (max-width: 375px) {
 
     .huddle {
         height: 18px;
